@@ -39,5 +39,5 @@ commonjs({
 For further documentation, see [the GLTFExporter docs](https://threejs.org/docs/#examples/exporters/GLTFExporter).
 
 ## Reporting Issues
-Please note that this is just a wrapper for the [glTF exporter provided by three.js](https://github.com/mrdoob/three.js/blob/master/examples/js/exporters/GLTFExporter). Therefore, any issues regarding the loader should be reported directly via the [three.js issue tracker](https://github.com/mrdoob/three.js/issues/).
+Please note that this is just a wrapper for the [glTF exporter provided by three.js](https://github.com/mrdoob/three.js/blob/master/examples/js/exporters/GLTFExporter.js). Therefore, any issues regarding the loader should be reported directly via the [three.js issue tracker](https://github.com/mrdoob/three.js/issues/).
 For issues directly related to the wrapper or this package specifically, feel free to contact me.
