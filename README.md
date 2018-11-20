@@ -21,14 +21,14 @@ const loader = new GLTFExporter();
 ```
 
 ## Usage es6
-```
+```javascript
 import GLTFExporter from 'three'
 var gexporter = new GLTFExporter();
 ```
 ## Notes for rollup
 In your rollup.config.js and in the commonjs section ensure to include the below for using this library for es6 projects. This might be necessary for any three-based libraries
 
-```
+```javascript
 commonjs({
       include: [
         'node_modules/three-gltf-exporter/**',      
