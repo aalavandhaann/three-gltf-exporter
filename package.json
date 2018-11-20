@@ -1,0 +1,26 @@
+{
+  "name": "three-gltf-exporter",
+  "version": "0.0.1",
+  "description": "three.js GLTFExporter wrapped as a module for easy importing",
+  "main": "index.js",
+  "homepage": "https://github.com/aalavandhaann/three-gltf-exporter#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aalavandhaann/three-gltf-exporter.git"
+  },
+  "author": "Srinivasan '#0K' Ramachandran <ashok.srinivasan2002@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "three",
+    "three.js",
+    "gltf",
+    "gltf2",
+    "exporter",
+    "webgl",
+    "es6"
+  ],
+  "peerDependencies": {
+    "three": ">=0.97.0"
+  }
+}
